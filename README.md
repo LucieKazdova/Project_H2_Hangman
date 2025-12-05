@@ -40,7 +40,5 @@ git clone https://github.com/LucieKazdova/Project_H2_Hangman.git
 ## 👤 Author
 
 Created by **Lucie Kazdová**
-Hyperskill Python Track — Hangman Project
-
-
+Hyperskill Python Track — Hangman Proj
 Or you run out of attempts 

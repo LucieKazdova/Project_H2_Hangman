@@ -25,8 +25,8 @@ If the letter is in the word → it appears in the correct position(s)
 If not → you lose one attempt
 If you repeat a letter → you lose one attempt
 Game ends when:
-  You guess the whole word 🎉
-  Or you run out of attempts ❌
+  - You guess the whole word 🎉
+  - Or you run out of attempts ❌
 
 
 ## ▶️ How to Run
@@ -40,5 +40,4 @@ git clone https://github.com/LucieKazdova/Project_H2_Hangman.git
 ## 👤 Author
 
 Created by **Lucie Kazdová**
-Hyperskill Python Track — Hangman Proj
-Or you run out of attempts 
+Hyperskill Python Track — Hangman Project
